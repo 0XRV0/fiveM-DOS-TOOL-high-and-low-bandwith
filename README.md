@@ -29,7 +29,8 @@ Default port: 30120
 Low bandwidth mode is ON by default.
 
 
-AND
+AND ALSO EXTRACT ALL OF THIS STUFF IF ITS ZIPPED 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
 FiveM Soft Lag
@@ -57,4 +58,4 @@ this is for educational purposes only !!!!!!!! Remember that
 bye thank you for reading and downloading and any people that you send this to you get a cookie sent to your house :) 
 love you all tho thank you again will try to upload more stuff in the days forward from now.....
 
-:PS im only 14 dont hate on it to bad
+:P.S im only 14 dont hate on it to bad
