@@ -1,0 +1,29 @@
+@echo off
+title FiveM Soft Lag
+color 0A
+cd /d "%~dp0"
+cls
+echo.
+echo  ========================================
+echo       FiveM Soft Lag (stay online)
+echo  ========================================
+echo.
+
+where python >nul 2>&1
+if %errorlevel%==0 (
+    python fivem_softlag.py
+    goto end
+)
+where py >nul 2>&1
+if %errorlevel%==0 (
+    py fivem_softlag.py
+    goto end
+)
+
+echo  [!] Install Python 3 and check PATH
+echo  https://www.python.org/downloads/
+pause
+exit /b 1
+
+:end
+pause
